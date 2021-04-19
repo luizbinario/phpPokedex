@@ -62,7 +62,7 @@
                         alt="CSS válido!" />
                 </a>
                 <a href="#"><img src="/assets/phpIcon.png" height="60"></a>      
-                <a href="https://github.com/luizbinario/angularPokedex" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="20"></a>      
+                <a href="https://github.com/luizbinario/phpPokedex" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="20"></a>      
             </div>
         </div>
     </body>
